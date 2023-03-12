@@ -1,0 +1,21 @@
+{
+    "name": "insta-profile-scraper",
+    "version": "1.0.0",
+    "description": "instagram profile scraper",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "keywords": [
+      "rest",
+      "api"
+    ],
+    "author": "Technostone-dev",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.3",
+      "instatouch": "^2.3.12"
+    }
+  }
+  
