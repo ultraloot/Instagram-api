@@ -60,7 +60,7 @@ app.get("/", (req, res) => {
                 code: 400,
                 msg: "Something Wrong Invalid Link"}));
     
-})
+
 app.get("/api/ig/get", (req, res) => {
     const user = req.query.user
     var usertest = "rajkumar.parmar"
